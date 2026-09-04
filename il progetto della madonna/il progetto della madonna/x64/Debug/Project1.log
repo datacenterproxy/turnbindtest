@@ -1,0 +1,6 @@
+﻿  smoothturn.cpp
+C:\Users\risk\Downloads\smoothturn.cpp(37,9): warning C4005: 'TEXT': macro redefinition
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(647,9):
+      see previous definition of 'TEXT'
+  
+  Project1.vcxproj -> C:\Users\risk\source\repos\Project1\x64\Debug\Project1.exe
